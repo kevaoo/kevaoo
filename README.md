@@ -1,0 +1,3 @@
+- 👋 Salve, eu sou o @kevaoo
+- 👀 Estou interessado em aprender a programar novas linguagens
+- 📫 Meu E-mail de contato é kevin.henrique.ribeiro@escola.pr.gov
